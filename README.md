@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+### Docker Usage
+
+Build the container and run the parser:
+
+```bash
+docker build -t mmc-parser .
+docker run --rm mmc-parser
+```
+
